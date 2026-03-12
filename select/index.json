@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "デスゲーム",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-12T17:47:57.308043Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "デスゲーム",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/01_デスゲーム_amazarashi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デスゲーム",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_デスゲーム_amazarashi.txt"
+    }
+  ]
+}
